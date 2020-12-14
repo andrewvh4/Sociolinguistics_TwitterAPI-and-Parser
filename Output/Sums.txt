@@ -1,0 +1,6 @@
+,President Donald Trump,President Trump,Donald Trump,Donald,Trump,Vice President Joe Biden,Vice President Biden,Joe Biden,Joe,Biden,Vice President Mike Pence,Vice President Pence,Mike Pence,Mike,Pence,Senator Kamala Harris,Senator Harris,Kamala Harris,Kamala,Harris
+Biden2020.txt,7,26,181,45,2411,5,1,468,410,1594,0,0,5,6,25,0,1,42,37,80
+BidenHarris2020.txt,44,380,1194,528,20625,15,18,2986,3022,10221,1,2,49,101,232,12,34,582,734,969
+Election2020.txt,180,662,1327,303,13184,39,6,1994,860,7882,13,5,63,74,114,6,6,232,170,499
+Trump2020.txt,203,2380,1041,466,16657,4,4,1935,2494,9464,5,15,28,80,112,1,1,239,456,581
+TrumpPence2020.txt,27,212,54,89,929,0,0,158,156,498,1,4,7,1,50,0,0,38,31,34
